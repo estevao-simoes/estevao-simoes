@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estevao-simoes
-- 👀 I’m interested in always learn somwthing new
-- 🌱 I’m currently into Laravel Nova
+- 👀 I’m interested in always learning somwthing new
+- 🌱 I’m currently developing apps using Laravel
 - 💞️ I’m looking to collaborate on anything interesting
 
 <!---
